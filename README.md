@@ -24,11 +24,11 @@ To run this project, you'll need the following Python libraries:
 
 ### Navigate to the project directory:
 
-    cd svm-project
+    cd SVM_Presentation
 
 ### Run the SVM script:
 
-    python svm_model.py
+    python SVM.ipynb
 
 ### You can install these libraries via pip:
 
