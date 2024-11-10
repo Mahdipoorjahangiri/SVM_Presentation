@@ -28,7 +28,7 @@ To run this project, you'll need the following Python libraries:
 
 ### Run the SVM script:
 
-    python SVM.ipynb
+    jupyter notebook SVM.ipynb
 
 ### You can install these libraries via pip:
 
