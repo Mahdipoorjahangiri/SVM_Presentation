@@ -20,7 +20,7 @@ To run this project, you'll need the following Python libraries:
 
 ### Clone this repository:
 
-    git clone https://github.com/yourusername/svm-project.git
+    git clone https://github.com/Mahdipoorjahangiri/SVM_Presentation.git
 
 ### Navigate to the project directory:
 
